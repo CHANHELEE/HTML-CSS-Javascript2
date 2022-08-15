@@ -1,6 +1,6 @@
 # HTML-CSS-Javascript2  
 
-  -netlify 배포 url : https://chanhee-html-css-js2.netlify.apphttps://chanhee-html-css-js2.netlify.app  
+  -netlify 배포 url : https://chanhee-html-css-js2.netlify.app
   
   <img width="1433" alt="스크린샷 2022-08-15 오후 9 49 58" src="https://user-images.githubusercontent.com/95417144/184638065-c153d8c2-a003-41f4-a493-6852d63196fa.png">  
     
